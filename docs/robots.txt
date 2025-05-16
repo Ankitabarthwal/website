@@ -1,1 +1,1 @@
-Sitemap: https://loremipusm/sitemap.xml
+Sitemap: https://ankitabarthwal.github.io/website/sitemap.xml
